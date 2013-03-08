@@ -1,0 +1,22 @@
+* BASE:
+-> 10uF Tantalo C: http://www.ebay.es/itm/10uF-TANTALUM-CAPACITOR-CASE-SIZE-C-10PCS-LOT-/251163093236#ht_500wt_1054
+-> 100uF Tantalo E: http://www.ebay.es/itm/250974323237?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649#ht_500wt_1054
+-> 1.8V regulador: http://www.ebay.es/itm/200682889242?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 3.3V regulador: http://www.ebay.es/itm/260700726343?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 5.0V regulador: http://www.ebay.es/itm/130750914480?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> Leds de colors: http://www.ebay.es/itm/360537732340?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 3x40 pinhead 90º: http://www.ebay.es/itm/180962786708?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 3x40 pinhead femella: http://www.ebay.es/itm/170881419323?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 2x40 pinhead femella: http://www.ebay.es/itm/170590329710?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 1x40 pinhead femella: http://www.ebay.es/itm/170621688248?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 2x40 pinhead: http://www.ebay.es/itm/170578500842?ssPageName=STRK:MEWAX:IT&_trksid=p3984.m1438.l2649
+-> Mini breadboard + cables: http://www.ebay.es/itm/310513842038?ssPageName=STRK:MEWAX:IT&_trksid=p3984.m1438.l2649
+-> Buzzer: http://www.ebay.es/itm/290576011848?ssPageName=STRK:MEWAX:IT&_trksid=p3984.m1438.l2649
+
+* ADAPTADORES:
+-> 1x40 pinhead femella 90º: http://www.ebay.es/itm/170876801011?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 2x40 pinhead femella 90º: http://www.ebay.es/itm/160939073658?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 2x20 pinhead femella 90º: http://www.ebay.es/itm/121021379218?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+-> 10uF Ceràmic 0805: http://www.ebay.es/itm/220983887703?ssPageName=STRK:MEWNX:IT&_trksid=p3984.m1439.l2649
+
+* MÒDULS:
