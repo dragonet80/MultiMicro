@@ -1,0 +1,15 @@
+* versió 1.01: 
+-> [Silkscreen] Separar una mica els rótuls dels connectors de voltage a la capa TOP.
+-> [Silkscreen] Llevar el rótul de texte del buzer.
+-> [Silkscreen] Reduir el diàmetre del cercle al buzer.
+-> [Silkscreen] Etiqueta regulador voltatge 1.8V està girada.
+-> [Silkscreen] El punt que indica el negatiu dels leds és molt petit.
+-> [Silkscreen] Canviar la numeració del connector triple.
+-> [Silkscreen] Etiqueta del connector múltiple, "POT2" està girada.
+-> [Silkscreen] Posar etiquetes als components: potenciómetres, dip-switch i pulsadors. O posar línies.
+-> [Silkscreen] Recolocar etiquetes de texte de les resistències a la capa BOTTOM.
+-> [Components] Eliminar condensador electrolític.
+-> [PCB] Augmentar gruix pista que va del selector de voltatge als components de la part de baix de la placa (pulsadors, potenciómetres, etc) per la capa TOP.
+-> [PCB] Recolocar interruptor i connector Vin per aprofitar millor l'espai.
+
+* versió 1.0: 2013/01/14
