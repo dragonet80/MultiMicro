@@ -1,0 +1,52 @@
+* ATMega32u4 tqfp:
+http://www.ebay.es/itm/291281726764
+
+* Breadboard + cables:
+http://www.ebay.es/itm/310513842038
+
+* Interruptor:
+http://www.ebay.es/itm/310569872090
+
+* Adaptador de voltatge:
+http://es.farnell.com/texas-instruments/txs0104ed/ic-volt-level-translator-4bit/dp/1607892
+http://www.ti.com/product/txs0104e/samplebuy
+http://www.ebay.es/itm/TEXAS-INSTRUMENTS-TXS0104ED-IC-SM-LOGIC-TRANSLATOR-/351067941092
+
+* Display 0,96" SPI:
+http://www.ebay.es/itm/170842974902
+
+* Potenciòmetres:
+http://www.ebay.es/itm/321635537380
+
+* Diodes:
+http://www.ebay.es/itm/400647265186
+
+* Ferrites:
+http://www.ebay.es/itm/191479162526
+
+* Mosfets tipus N:
+http://www.ebay.es/itm/181291847700
+
+* Mosfets tipus P:
+http://www.ebay.es/itm/261261782429
+
+* Condensadors 100uF 16V tipus C:
+http://www.ebay.es/itm/291190614250
+
+* 2x40 Male Pin Header 90º:
+http://www.ebay.es/itm/140850530831
+
+* Botons through hole:
+http://www.ebay.es/itm/251146519833
+
+* ESP8266 01:
+http://www.ebay.es/itm/131334864936
+
+* NRF24L01+:
+http://www.ebay.es/itm/1pcs-NRF24L01-2-4GHz-Antenna-Wireless-Transceiver-Module-For-Microcontr-/171462149587
+
+* HC-06:
+http://www.ebay.es/itm/HC-06-RS232-Wireless-Serial-4-Pin-Bluetooth-RF-Transceiver-Module-With-backplane-/130984479388
+
+* HM-10:
+http://www.ebay.es/itm/HM-10-Transparent-Bluetooth-4-0-Serial-Port-Module-with-Logic-Level-Translator-/201260428325
